@@ -1,0 +1,29 @@
+# Custom Warps by JayMar921
+#
+# Rows, number of rows in the GUI (Max of 6)
+ROWS: 1
+#
+# [Background]
+#
+# Available color: BLUE, RED, YELLOW, WHITE, LIME
+BACKGROUND: 'RED'
+#
+# [Enchanted Background]
+Enchanted: true
+#
+# [Server Name]
+# It will appear in GUI name when players do /warps
+# 
+SERVER: 'Custom Warps by JayMar921'
+#
+# Change the color of 'Server Name'
+# [AQUA, BLACK, BLUE, DARK_AQUA, DARK_BLUE, DARK_GRAY, DARK_GREEN, DARK_PURPLE]
+# [DARK_RED, GOLD, GRAY, LIGHT_PURPLE, RED, WHITE, YELLOW]
+COLOR: 'AQUA'
+#
+# [Server Name font style]
+BOLD: false
+#
+# [Warp Delay - in seconds]
+# 0 - means instant
+DELAY: 3

@@ -1,0 +1,20 @@
+main: me.JayMar921.Warps.Main
+name: CustomWarps_by_JayMar921
+version: 1.0.3
+author: JayMar921
+api-version: 1.16
+website: https://www.youtube.com/c/jaymar921/
+
+commands:
+    warps:
+        description: shows Warps GUI
+        usage: /warps
+    warp:
+        description: configure Warps, only OP player can use this
+        usage: /warp {sub_commands}
+        permission: CustomWarps.warp
+
+    permissions:
+        CustomWarps.warp:
+            description: Only players with permission can modify custom warp plugin
+            default: op
